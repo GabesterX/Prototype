@@ -1,0 +1,6 @@
+S00000,TempUser,Password
+S00001,TempUser2,Password
+S00050,student,123
+T00030,username,password
+T00020,teacher,123
+

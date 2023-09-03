@@ -1,0 +1,7 @@
+ScurrIdNum,00053
+TcurrIdNum,00040
+AcurrIdNum,00000
+chatCount,00012
+reportCount,00003
+timetableCount,00000
+classCount,00002
